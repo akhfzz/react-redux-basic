@@ -10,7 +10,9 @@
 
 # production
 /build
-
+public/logo192.png
+public/logo512.png
+public/favicon.ico
 # misc
 .DS_Store
 .env.local
